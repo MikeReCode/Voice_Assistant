@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+deepspeech-0.9.3-models.pbmm
+deepspeech-0.9.3-models.scorer
+chromedriver_win32/
+session.txt
+tabs.txt
+.idea/
